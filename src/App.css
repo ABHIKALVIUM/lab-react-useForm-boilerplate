@@ -1,0 +1,40 @@
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 25vw;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-left: 550px;
+}
+
+.feild-inputs{
+  width: 350px;
+  height: 40px;
+  margin: 2% 0;
+  font-size: larger;
+  padding-left: 2%;
+  background-color: rgb(238,236,238);
+  color: black;
+  border: none;
+}
+
+#reg-btn{
+  background-color: rgb(65,164,69);
+  width: 23vw;
+  height: 40px;
+  margin-bottom: 3%;
+  border-radius: 0;
+  border: none;
+}
+
+p{
+  color: red;
+}
+
+h3{
+  color: white;
+  width: 300px;
+  text-align: center;
+  background-color:rgb(46, 128, 228) ;
+}
+
